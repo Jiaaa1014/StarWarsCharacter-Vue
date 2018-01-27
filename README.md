@@ -1,8 +1,4 @@
-# starbase
-
-> A Vue.js project
-
-## Build Setup
+# Build Setup
 
 ``` bash
 # install dependencies
@@ -16,3 +12,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# Ref
+
+[Webpack HMR](https://zhuanlan.zhihu.com/p/30669007)
